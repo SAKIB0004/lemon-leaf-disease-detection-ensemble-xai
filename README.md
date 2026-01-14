@@ -66,7 +66,7 @@ The dataset is organized in a directory structure compatible with
 ├── Canker/
 ├── Curl_Virus/
 └── Healthy/
-
+```
 ## 🧪 Methodology
 
 The project follows a structured deep learning workflow:
